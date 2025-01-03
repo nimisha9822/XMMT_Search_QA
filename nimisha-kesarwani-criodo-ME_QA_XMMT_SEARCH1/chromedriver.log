@@ -1,0 +1,343 @@
+[1722149696.083][INFO]: Starting ChromeDriver 127.0.6533.72 (9755e24ca85aa18ffa16c743f660a3d914902775-refs/branch-heads/6533@{#1760}) on port 35348
+[1722149696.083][INFO]: Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+[1722149696.185][INFO]: [6c062df2546c5383699291f0d882306a] COMMAND InitSession {
+   "capabilities": {
+      "firstMatch": [ {
+         "browserName": "chrome",
+         "goog:chromeOptions": {
+            "args": [  ],
+            "extensions": [  ]
+         },
+         "goog:loggingPrefs": {
+            "browser": "ALL",
+            "driver": "ALL"
+         }
+      } ]
+   }
+}
+[1722149696.185][INFO]: Browser search. Trying... /Users/nimishakesarwani/.cache/selenium/chromedriver/mac-arm64/127.0.6533.72/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /Users/nimishakesarwani/.cache/selenium/chromedriver/mac-arm64/127.0.6533.72/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /Users/nimishakesarwani/.cache/selenium/chromedriver/mac-arm64/127.0.6533.72/Google Chrome.app/Contents/MacOS/Google Chrome
+[1722149696.185][INFO]: Browser search. Trying... /Users/nimishakesarwani/.cache/selenium/chromedriver/mac-arm64/127.0.6533.72/Chromium.app/Contents/MacOS/Chromium
+[1722149696.185][INFO]: Browser search. Trying... /Users/nimishakesarwani/Applications/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /Applications/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /opt/homebrew/opt/mysql@8.0/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /opt/homebrew/opt/mysql@8.0/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /opt/homebrew/bin/python@3.9/libexec/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /opt/homebrew/opt/python@3.9/libexec/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /opt/homebrew/opt/python@3.9/libexec/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /opt/homebrew/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /opt/homebrew/sbin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /Library/Frameworks/Python.framework/Versions/3.12/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /Library/Frameworks/Python.framework/Versions/3.11/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /usr/local/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /System/Cryptexes/App/usr/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /usr/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /usr/sbin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /sbin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /opt/homebrew/opt/mysql@8.0/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /opt/homebrew/bin/python@3.9/libexec/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /opt/homebrew/opt/python@3.9/libexec/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /opt/homebrew/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /opt/homebrew/sbin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /Library/Frameworks/Python.framework/Versions/3.12/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /Library/Frameworks/Python.framework/Versions/3.11/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /Users/nimishakesarwani/Applications/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /Applications/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /opt/homebrew/opt/mysql@8.0/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /opt/homebrew/opt/mysql@8.0/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /opt/homebrew/bin/python@3.9/libexec/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /opt/homebrew/opt/python@3.9/libexec/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /opt/homebrew/opt/python@3.9/libexec/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /opt/homebrew/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /opt/homebrew/sbin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /Library/Frameworks/Python.framework/Versions/3.12/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /Library/Frameworks/Python.framework/Versions/3.11/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /usr/local/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /System/Cryptexes/App/usr/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /usr/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /usr/sbin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /sbin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /opt/homebrew/opt/mysql@8.0/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /opt/homebrew/bin/python@3.9/libexec/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /opt/homebrew/opt/python@3.9/libexec/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /opt/homebrew/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.185][INFO]: Browser search. Trying... /opt/homebrew/sbin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.186][INFO]: Browser search. Trying... /Library/Frameworks/Python.framework/Versions/3.12/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.186][INFO]: Browser search. Trying... /Library/Frameworks/Python.framework/Versions/3.11/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1722149696.186][INFO]: Browser search. Trying... /Users/nimishakesarwani/Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+[1722149696.186][INFO]: Browser search. Trying... /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+[1722149696.186][INFO]: Browser search. Found at  /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+[1722149696.186][INFO]: Populating Preferences file: {
+   "alternate_error_pages": {
+      "enabled": false
+   },
+   "autofill": {
+      "enabled": false
+   },
+   "browser": {
+      "check_default_browser": false
+   },
+   "distribution": {
+      "import_bookmarks": false,
+      "import_history": false,
+      "import_search_engine": false,
+      "make_chrome_default_for_user": false,
+      "skip_first_run_ui": true
+   },
+   "dns_prefetching": {
+      "enabled": false
+   },
+   "profile": {
+      "content_settings": {
+         "pattern_pairs": {
+            "https://*,*": {
+               "media-stream": {
+                  "audio": "Default",
+                  "video": "Default"
+               }
+            }
+         }
+      },
+      "default_content_setting_values": {
+         "geolocation": 1
+      },
+      "default_content_settings": {
+         "geolocation": 1,
+         "mouselock": 1,
+         "notifications": 1,
+         "popups": 1,
+         "ppapi-broker": 1
+      },
+      "password_manager_enabled": false
+   },
+   "safebrowsing": {
+      "enabled": false
+   },
+   "search": {
+      "suggest_enabled": false
+   },
+   "translate": {
+      "enabled": false
+   }
+}
+[1722149696.186][INFO]: Populating Local State file: {
+   "background_mode": {
+      "enabled": false
+   },
+   "ssl": {
+      "rev_checking": {
+         "enabled": false
+      }
+   }
+}
+[1722149696.187][INFO]: ChromeDriver supports communication with Chrome via pipes. This is more reliable and more secure.
+[1722149696.187][INFO]: Use the --remote-debugging-pipe Chrome switch instead of the default --remote-debugging-port to enable this communication mode.
+[1722149696.187][INFO]: Launching chrome: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --allow-pre-commit-input --disable-background-networking --disable-client-side-phishing-detection --disable-default-apps --disable-hang-monitor --disable-popup-blocking --disable-prompt-on-repost --disable-sync --enable-automation --enable-logging --log-level=0 --no-first-run --no-service-autorun --password-store=basic --remote-debugging-port=0 --test-type=webdriver --use-mock-keychain --user-data-dir=/var/folders/kv/ps0q53b541g9rxs100k4kg7h0000gn/T/.org.chromium.Chromium.jGbhRV data:,
+[1722149696.843][INFO]: resolved localhost to ["127.0.0.1","::1"]
+[1722149696.898][INFO]: [6c062df2546c5383699291f0d882306a] RESPONSE InitSession {
+   "capabilities": {
+      "acceptInsecureCerts": false,
+      "browserName": "chrome",
+      "browserVersion": "127.0.6533.72",
+      "chrome": {
+         "chromedriverVersion": "127.0.6533.72 (9755e24ca85aa18ffa16c743f660a3d914902775-refs/branch-heads/6533@{#1760})",
+         "userDataDir": "/var/folders/kv/ps0q53b541g9rxs100k4kg7h0000gn/T/.org.chromium.Chromium.jGbhRV"
+      },
+      "fedcm:accounts": true,
+      "goog:chromeOptions": {
+         "debuggerAddress": "localhost:51204"
+      },
+      "networkConnectionEnabled": false,
+      "pageLoadStrategy": "normal",
+      "platformName": "mac",
+      "proxy": {
+      },
+      "setWindowRect": true,
+      "strictFileInteractability": false,
+      "timeouts": {
+         "implicit": 0,
+         "pageLoad": 300000,
+         "script": 30000
+      },
+      "unhandledPromptBehavior": "dismiss and notify",
+      "webauthn:extension:credBlob": true,
+      "webauthn:extension:largeBlob": true,
+      "webauthn:extension:minPinLength": true,
+      "webauthn:extension:prf": true,
+      "webauthn:virtualAuthenticators": true
+   },
+   "sessionId": "6c062df2546c5383699291f0d882306a"
+}
+[1722149697.025][INFO]: [6c062df2546c5383699291f0d882306a] COMMAND MaximizeWindow {
+}
+[1722149697.025][INFO]: Waiting for pending navigations...
+[1722149697.030][INFO]: Done waiting for pending navigations. Status: ok
+[1722149697.046][INFO]: Waiting for pending navigations...
+[1722149697.046][INFO]: Done waiting for pending navigations. Status: ok
+[1722149697.046][INFO]: [6c062df2546c5383699291f0d882306a] RESPONSE MaximizeWindow {
+   "height": 684,
+   "width": 1280,
+   "x": 0,
+   "y": 25
+}
+[1722149697.049][INFO]: [6c062df2546c5383699291f0d882306a] COMMAND SetTimeouts {
+   "implicit": 30000
+}
+[1722149697.049][INFO]: [6c062df2546c5383699291f0d882306a] RESPONSE SetTimeouts
+[1722149697.054][INFO]: [6c062df2546c5383699291f0d882306a] COMMAND Navigate {
+   "url": "https://www.makemytrip.com/"
+}
+[1722149697.054][INFO]: Waiting for pending navigations...
+[1722149697.060][INFO]: Done waiting for pending navigations. Status: ok
+[1722149697.239][INFO]: Waiting for pending navigations...
+[1722149697.991][INFO]: Done waiting for pending navigations. Status: ok
+[1722149697.991][INFO]: [6c062df2546c5383699291f0d882306a] RESPONSE Navigate
+[1722149699.997][INFO]: [6c062df2546c5383699291f0d882306a] COMMAND GetUrl {
+}
+[1722149699.997][INFO]: Waiting for pending navigations...
+[1722149699.998][INFO]: Done waiting for pending navigations. Status: ok
+[1722149700.000][INFO]: Waiting for pending navigations...
+[1722149700.000][INFO]: Done waiting for pending navigations. Status: ok
+[1722149700.000][INFO]: [6c062df2546c5383699291f0d882306a] RESPONSE GetUrl "https://www.makemytrip.com/"
+[1722149703.005][INFO]: [6c062df2546c5383699291f0d882306a] COMMAND Navigate {
+   "url": "https://www.makemytrip.com"
+}
+[1722149703.006][INFO]: Waiting for pending navigations...
+[1722149703.006][INFO]: Done waiting for pending navigations. Status: ok
+[1722149703.163][INFO]: Waiting for pending navigations...
+[1722149703.378][INFO]: Done waiting for pending navigations. Status: ok
+[1722149703.378][INFO]: [6c062df2546c5383699291f0d882306a] RESPONSE Navigate
+[1722149708.387][INFO]: [6c062df2546c5383699291f0d882306a] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//input[@id='fromCity']"
+}
+[1722149708.387][INFO]: Waiting for pending navigations...
+[1722149708.387][INFO]: Done waiting for pending navigations. Status: ok
+[1722149708.393][INFO]: Waiting for pending navigations...
+[1722149708.394][INFO]: Done waiting for pending navigations. Status: ok
+[1722149708.394][INFO]: [6c062df2546c5383699291f0d882306a] RESPONSE FindElement {
+   "element-6066-11e4-a52e-4f735466cecf": "f.C474432A5527E49A9251D2FCD0AD92A6.d.FC9404630271078B46B875F2886A622A.e.140"
+}
+[1722149708.400][INFO]: [6c062df2546c5383699291f0d882306a] COMMAND TypeElement {
+   "id": "f.C474432A5527E49A9251D2FCD0AD92A6.d.FC9404630271078B46B875F2886A622A.e.140",
+   "text": "blr",
+   "value": [ "b", "l", "r" ]
+}
+[1722149708.400][INFO]: Waiting for pending navigations...
+[1722149708.400][INFO]: Done waiting for pending navigations. Status: ok
+[1722149708.486][INFO]: Waiting for pending navigations...
+[1722149708.487][INFO]: Done waiting for pending navigations. Status: ok
+[1722149708.487][INFO]: [6c062df2546c5383699291f0d882306a] RESPONSE TypeElement
+[1722149711.493][INFO]: [6c062df2546c5383699291f0d882306a] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//*[@id='react-autowhatever-1-section-0-item-0']"
+}
+[1722149711.493][INFO]: Waiting for pending navigations...
+[1722149711.494][INFO]: Done waiting for pending navigations. Status: ok
+[1722149711.499][INFO]: Waiting for pending navigations...
+[1722149711.500][INFO]: Done waiting for pending navigations. Status: ok
+[1722149711.500][INFO]: [6c062df2546c5383699291f0d882306a] RESPONSE FindElement {
+   "element-6066-11e4-a52e-4f735466cecf": "f.C474432A5527E49A9251D2FCD0AD92A6.d.FC9404630271078B46B875F2886A622A.e.167"
+}
+[1722149711.503][INFO]: [6c062df2546c5383699291f0d882306a] COMMAND ClickElement {
+   "id": "f.C474432A5527E49A9251D2FCD0AD92A6.d.FC9404630271078B46B875F2886A622A.e.167"
+}
+[1722149711.503][INFO]: Waiting for pending navigations...
+[1722149711.503][INFO]: Done waiting for pending navigations. Status: ok
+[1722149711.533][INFO]: Waiting for pending navigations...
+[1722149711.533][INFO]: Done waiting for pending navigations. Status: ok
+[1722149711.533][INFO]: [6c062df2546c5383699291f0d882306a] RESPONSE ClickElement
+[1722149714.537][INFO]: [6c062df2546c5383699291f0d882306a] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//input[@id='toCity']"
+}
+[1722149714.537][INFO]: Waiting for pending navigations...
+[1722149714.537][INFO]: Done waiting for pending navigations. Status: ok
+[1722149714.542][INFO]: Waiting for pending navigations...
+[1722149714.542][INFO]: Done waiting for pending navigations. Status: ok
+[1722149714.542][INFO]: [6c062df2546c5383699291f0d882306a] RESPONSE FindElement {
+   "element-6066-11e4-a52e-4f735466cecf": "f.C474432A5527E49A9251D2FCD0AD92A6.d.FC9404630271078B46B875F2886A622A.e.141"
+}
+[1722149714.545][INFO]: [6c062df2546c5383699291f0d882306a] COMMAND TypeElement {
+   "id": "f.C474432A5527E49A9251D2FCD0AD92A6.d.FC9404630271078B46B875F2886A622A.e.141",
+   "text": "del",
+   "value": [ "d", "e", "l" ]
+}
+[1722149714.545][INFO]: Waiting for pending navigations...
+[1722149714.545][INFO]: Done waiting for pending navigations. Status: ok
+[1722149714.574][INFO]: Waiting for pending navigations...
+[1722149714.575][INFO]: Done waiting for pending navigations. Status: ok
+[1722149714.575][INFO]: [6c062df2546c5383699291f0d882306a] RESPONSE TypeElement
+[1722149716.578][INFO]: [6c062df2546c5383699291f0d882306a] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//*[@id='react-autowhatever-1-section-0-item-0']/div/div[1]"
+}
+[1722149716.578][INFO]: Waiting for pending navigations...
+[1722149716.579][INFO]: Done waiting for pending navigations. Status: ok
+[1722149716.584][INFO]: Waiting for pending navigations...
+[1722149716.584][INFO]: Done waiting for pending navigations. Status: ok
+[1722149716.584][INFO]: [6c062df2546c5383699291f0d882306a] RESPONSE FindElement {
+   "element-6066-11e4-a52e-4f735466cecf": "f.C474432A5527E49A9251D2FCD0AD92A6.d.FC9404630271078B46B875F2886A622A.e.184"
+}
+[1722149716.587][INFO]: [6c062df2546c5383699291f0d882306a] COMMAND ClickElement {
+   "id": "f.C474432A5527E49A9251D2FCD0AD92A6.d.FC9404630271078B46B875F2886A622A.e.184"
+}
+[1722149716.587][INFO]: Waiting for pending navigations...
+[1722149716.588][INFO]: Done waiting for pending navigations. Status: ok
+[1722149716.623][INFO]: Waiting for pending navigations...
+[1722149716.627][INFO]: Done waiting for pending navigations. Status: ok
+[1722149716.627][INFO]: [6c062df2546c5383699291f0d882306a] RESPONSE ClickElement
+[1722149718.633][INFO]: [6c062df2546c5383699291f0d882306a] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//*[@id='top-banner']/div[2]/div/div/div/div/div[2]/div[1]/div[3]/div[1]/div/div/div/div[2]/div/div[2]/div[1]/div[3]/div[5]/div[2]/div"
+}
+[1722149718.633][INFO]: Waiting for pending navigations...
+[1722149718.633][INFO]: Done waiting for pending navigations. Status: ok
+[1722149718.639][INFO]: Waiting for pending navigations...
+[1722149718.639][INFO]: Done waiting for pending navigations. Status: ok
+[1722149718.639][INFO]: [6c062df2546c5383699291f0d882306a] RESPONSE FindElement {
+   "element-6066-11e4-a52e-4f735466cecf": "f.C474432A5527E49A9251D2FCD0AD92A6.d.FC9404630271078B46B875F2886A622A.e.189"
+}
+[1722149718.641][INFO]: [6c062df2546c5383699291f0d882306a] COMMAND ClickElement {
+   "id": "f.C474432A5527E49A9251D2FCD0AD92A6.d.FC9404630271078B46B875F2886A622A.e.189"
+}
+[1722149718.641][INFO]: Waiting for pending navigations...
+[1722149718.642][INFO]: Done waiting for pending navigations. Status: ok
+[1722149718.671][INFO]: Waiting for pending navigations...
+[1722149718.674][INFO]: Done waiting for pending navigations. Status: ok
+[1722149718.674][INFO]: [6c062df2546c5383699291f0d882306a] RESPONSE ClickElement
+[1722149720.680][INFO]: [6c062df2546c5383699291f0d882306a] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//a[contains(text(),'Search')]"
+}
+[1722149720.680][INFO]: Waiting for pending navigations...
+[1722149720.680][INFO]: Done waiting for pending navigations. Status: ok
+[1722149720.685][INFO]: Waiting for pending navigations...
+[1722149720.685][INFO]: Done waiting for pending navigations. Status: ok
+[1722149720.685][INFO]: [6c062df2546c5383699291f0d882306a] RESPONSE FindElement {
+   "element-6066-11e4-a52e-4f735466cecf": "f.C474432A5527E49A9251D2FCD0AD92A6.d.FC9404630271078B46B875F2886A622A.e.192"
+}
+[1722149720.687][INFO]: [6c062df2546c5383699291f0d882306a] COMMAND ClickElement {
+   "id": "f.C474432A5527E49A9251D2FCD0AD92A6.d.FC9404630271078B46B875F2886A622A.e.192"
+}
+[1722149720.687][INFO]: Waiting for pending navigations...
+[1722149720.687][INFO]: Done waiting for pending navigations. Status: ok
+[1722149720.719][INFO]: Waiting for pending navigations...
+[1722149727.323][INFO]: Done waiting for pending navigations. Status: ok
+[1722149727.324][INFO]: [6c062df2546c5383699291f0d882306a] RESPONSE ClickElement
+[1722149732.327][INFO]: [6c062df2546c5383699291f0d882306a] COMMAND FindElement {
+   "using": "xpath",
+   "value": "(//div[contains(@class,'blackText fontSize18')])[1]"
+}
+[1722149732.327][INFO]: Waiting for pending navigations...
+[1722149732.329][INFO]: Done waiting for pending navigations. Status: ok
+[1722149755.441][INFO]: [6c062df2546c5383699291f0d882306a] RESPONSE FindElement
